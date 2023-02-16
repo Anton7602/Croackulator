@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Croackulator</string>
+    <string name="btn_minus_desc">Minus</string>
+    <string name="btn_equals_desc">Equals</string>
+    <string name="btn_comma_desc">Comma</string>
+    <string name="btn_zero_desc">Zero</string>
+    <string name="btn_bracket_desc">Bracket</string>
+    <string name="btn_one_desc">One</string>
+    <string name="btn_two_desc">Two</string>
+    <string name="btn_three_desc">Three</string>
+    <string name="btn_four_desc">Four</string>
+    <string name="btn_five_desc">Five</string>
+    <string name="btn_six_desc">Six</string>
+    <string name="btn_clear_desc">Clear</string>
+    <string name="btn_seven_desc">Seven</string>
+    <string name="btn_eight_desc">Eight</string>
+    <string name="btn_nine_desc">Nine</string>
+    <string name="btn_remove_desc">Remove</string>
+    <string name="btn_plus_desc">Plus</string>
+    <string name="btn_multiply_desc">Multiply</string>
+    <string name="btn_divide_desc">Divide</string>
+    <string name="txt_equation">0</string>
+    <string name="img_leaf_background">Leaf</string>
+    <string name="img_small_splash">Small splash</string>
+    <string name="img_big_splash">Big Splash</string>
+</resources>

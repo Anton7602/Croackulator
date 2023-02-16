@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Croackulator" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/croack_main</item>
+        <item name="colorPrimaryVariant">@color/croack_main</item>
+        <item name="colorOnPrimary">@color/croack_main</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/croack_main</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/croack_main</item>
+        <item name="android:navigationBarColor">@color/croack_main</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
